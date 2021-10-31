@@ -1,5 +1,5 @@
 
-data = ["aaaa","aaa"]
+data = ["apel","nanas","pisang","jeruk","mangga"]
 i = 0
 var = 0
 r =len(data)
