@@ -1,2 +1,2 @@
-# Python
-Ini adalah Repo Tugas
+# Python Assignment
+Ini adalah Repo Tugas Kuliah
